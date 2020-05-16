@@ -14,6 +14,7 @@ namespace StockTrading
             this.Name = Name;
             this.Price = Price;
         }
+
         
     }
 }
